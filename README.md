@@ -1,6 +1,41 @@
-# Browser_Based_Code_Editor_Project
-Browser-Based Code Editor
+# 💻 Browser-Based Code Editor
 
-• Role : Designed and developed a client-side web-based code editor enabling real-time execution and preview of HTML, CSS, and JavaScript. Implemented modular functions for code execution, file download generation, UI theme switching, and dynamic content injection using JavaScript document methods. Focused on performance, responsiveness, and clean UI design.
+An interactive web-based code editor that enables real-time execution of HTML, CSS, and JavaScript directly in the browser.
 
-• Tech Stack : HTML5, CSS3 (Flexbox, Animations), JavaScript (ES6, DOM APIs, iframe.contentWindow, File Handling).
+---
+
+## 🚀 Project Overview
+This project simulates a lightweight front-end development environment where users can write and execute HTML, CSS, and JavaScript code. It dynamically injects code into an iframe for live preview and includes utility features like download and theme toggle.
+
+---
+
+## ✨ Features
+- 🖥 Real-time code execution
+- 🎨 Dark/Light theme toggle
+- 🗑 Clear editor functionality
+- ⬇ Download written code
+- 📱 Responsive layout
+
+---
+
+## 🛠 Tech Stack
+- HTML5
+- CSS3 (Flexbox, Responsive UI)
+- JavaScript (ES6, DOM Manipulation, Template Literals)
+- iframe API
+
+---
+
+## 📂 Installation
+1. Clone the repository
+2. Open `index.html` in your browser
+
+---
+
+## 🔗 Live Demo
+(Add link)
+
+---
+
+## 👨‍💻 Author
+Lakshya Saraswat
