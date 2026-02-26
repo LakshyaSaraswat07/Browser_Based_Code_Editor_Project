@@ -26,16 +26,5 @@ This project simulates a lightweight front-end development environment where use
 
 ---
 
-## 📂 Installation
-1. Clone the repository
-2. Open `index.html` in your browser
-
----
-
 ## 🔗 Live Demo
-(https://lakshyasaraswat07.github.io/Project--Browser_Based_Code_Editor/)
-
----
-
-## 👨‍💻 Author
-Lakshya Saraswat
+https://lakshyasaraswat07.github.io/Project--Browser_Based_Code_Editor/
